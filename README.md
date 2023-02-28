@@ -1,6 +1,6 @@
 # Blaster.cash Ruby SDK
 
-Blaster.cash Ruby SDK is a library that enables easy integration of Blaster.cash payment gateway services into your Ruby-based applications.
+Blaster.cash Ruby SDK is a library that enables easy integration of Blaster.cash Solana payment gateway services into your Ruby-based applications.
 
 ## Getting started
 
