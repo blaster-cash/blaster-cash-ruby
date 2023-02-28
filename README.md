@@ -14,7 +14,7 @@ If you want to contribute to the project, please read our guidelines for contrib
 You can also join our [Discord server](https://discord.gg/u9yEMApe) to chat with the team and other contributors.
 
 ## Follow Us
-Stay up-to-date with the latest news and updates from Blaster.cash by following us on Twitter - [@blaster_cash]https://twitter.com/blaster_cash.
+Stay up-to-date with the latest news and updates from Blaster.cash by following us on Twitter - [@blaster_cash](https://twitter.com/blaster_cash).
 
 ## Contact Us
 
